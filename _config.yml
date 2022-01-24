@@ -99,13 +99,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-suka_theme:
-  search:
-    path: search.json
-    field: post # Page | Post | All. Default post
-  prism:
-    line_number: true
-    theme: default
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
